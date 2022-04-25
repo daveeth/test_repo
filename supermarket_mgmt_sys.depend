@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613335239 source:c:\users\dawit\documents\codeblocksprojects\supermarket_mgmt_sys\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
